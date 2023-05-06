@@ -1,0 +1,12 @@
+.footer-container {
+	position: relative;
+}
+
+.footer-container > {
+	border: 1px solid var(--lightgrayz);
+}
+
+.footer {
+	padding: 1rem 2rem;
+	display: flex;
+}
